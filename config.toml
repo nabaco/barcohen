@@ -1,4 +1,5 @@
-baseURL = "https://barcohen.xyz"
+#baseURL = "https://barcohen.xyz"
+baseURL = "https://nabaco.github.io/barcohen"
 title = "NaBaCo"
 
 theme = "fuji"
